@@ -1,0 +1,3 @@
+Stuck
+
+destrucure 10
